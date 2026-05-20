@@ -167,7 +167,7 @@ const TRANSLATIONS = {
     },
     skills: {
       title: "Keahlian",
-      subtitle: "Kombinasi sains data, pemrograman, dan pengajaran"
+      subtitle: "sains data, pemrograman, dan pengajaran"
     },
     experience: {
       title: "Perjalanan Karir",
