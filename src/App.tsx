@@ -62,7 +62,7 @@ interface Language {
 
 const PROFILE_DATA = {
   name: "Fira Apriliana",
-  photo: "hijab_laptop_avatar_1779261890396.png",
+  import myPhoto from './assets/images/hijab_laptop_avatar_1779261890396.png',
   social: {
     linkedin: "https://linkedin.com/in/fira-apriliana-02b2aa241",
     github: "https://github.com/firaapriliana/",
