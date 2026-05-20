@@ -62,7 +62,7 @@ interface Language {
 
 const PROFILE_DATA = {
   name: "Fira Apriliana",
-  // image: "https://raw.githubusercontent.com/firaapriliana/porto_fi/main/public/hijab_laptop_avatar_1779261890396.png",
+  photo: "/src/assets/images/hijab_laptop_avatar_1779261890396.png",
   social: {
     linkedin: "https://linkedin.com/in/fira-apriliana-02b2aa241",
     github: "https://github.com/firaapriliana/",
@@ -167,7 +167,7 @@ const TRANSLATIONS = {
     },
     skills: {
       title: "Keahlian",
-      subtitle: "sains data, pemrograman, dan pengajaran"
+      subtitle: "Kombinasi sains data, pemrograman, dan pengajaran"
     },
     experience: {
       title: "Perjalanan Karir",
