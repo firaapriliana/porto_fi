@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Fira Apriliana Portfolio",
+  "description": "Situs Web Portofolio Fira Apriliana, berisikan daftar keahlian, pengalaman, karya pilihan, dan tautan sosial terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
